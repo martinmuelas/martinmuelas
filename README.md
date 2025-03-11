@@ -1,7 +1,9 @@
 ## Hi there! 👋 It's Martin here...
-### I'm an Analytics Engineer from Buenos Aires, Argentina.
+### I'm an Analytics Engineer from Buenos Aires, Argentina 🇦🇷
 
-I've been writing SQL and building data products for several years now...
+<br>
+
+_I've been writing SQL and building data products for several years now..._
 
 
 <br>
